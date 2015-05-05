@@ -1,0 +1,1 @@
+A json containing all links to public duell libraries hosted on github
