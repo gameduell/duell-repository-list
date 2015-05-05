@@ -1,21 +1,21 @@
 {
 	"duell":
 	{
-		"git_path":"ssh://git@github.com:gameduell/duell.git",
+		"git_path":"git@github.com:gameduell/duell.git",
 		"library_path": "duell",
 		"destination_path": "duell"
 	},
 
 	"duellbuildhtml5":
 	{
-		"git_path":"ssh://git@github.com:gameduell/duellbuildhtml5.git",
+		"git_path":"git@github.com:gameduell/duellbuildhtml5.git",
 		"library_path": "duellbuildhtml5",
 		"destination_path": "duellbuildhtml5"
 	},
 
 	"duellcreateemptyProject":
 	{
-		"git_path":"ssh://git@github.com:gameduell/duellcreateemptyProject.git",
+		"git_path":"git@github.com:gameduell/duellcreateemptyProject.git",
 		"library_path": "duellcreateemptyProject",
 		"destination_path": "duellcreateemptyProject"
 	}
