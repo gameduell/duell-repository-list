@@ -11,5 +11,12 @@
 		"git_path":"ssh://git@github.com:gameduell/duellbuildhtml5.git",
 		"library_path": "duellbuildhtml5",
 		"destination_path": "duellbuildhtml5"
+	},
+
+	"duellcreateemptyProject":
+	{
+		"git_path":"ssh://git@github.com:gameduell/duellcreateemptyProject.git",
+		"library_path": "duellcreateemptyProject",
+		"destination_path": "duellcreateemptyProject"
 	}
 }
