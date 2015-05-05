@@ -4,5 +4,12 @@
 		"git_path":"ssh://git@github.com:gameduell/duell.git",
 		"library_path": "duell",
 		"destination_path": "duell"
+	},
+
+	"duellbuildhtml5":
+	{
+		"git_path":"ssh://git@github.com:gameduell/duellbuildhtml5.git",
+		"library_path": "duellbuildhtml5",
+		"destination_path": "duellbuildhtml5"
 	}
 }
