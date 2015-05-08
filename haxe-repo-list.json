@@ -6,11 +6,25 @@
 		"destination_path": "duell"
 	},
 
+	"duellsetupflash":
+	{
+		"git_path":"git@github.com:gameduell/duellsetupflash.git",
+		"library_path": "duellsetupflash",
+		"destination_path": "duellsetupflash"
+	},
+
 	"duellbuildhtml5":
 	{
 		"git_path":"git@github.com:gameduell/duellbuildhtml5.git",
 		"library_path": "duellbuildhtml5",
 		"destination_path": "duellbuildhtml5"
+	},
+
+	"duellbuildflash":
+	{
+		"git_path":"git@github.com:gameduell/duellbuildflash.git",
+		"library_path": "duellbuildflash",
+		"destination_path": "duellbuildflash"
 	},
 
 	"duellcreateemptyProject":
