@@ -13,6 +13,13 @@
 		"destination_path": "duellsetupflash"
 	},
 
+	"duellsetupmac":
+	{
+		"git_path":"git@github.com:gameduell/duellsetupmac.git",
+		"library_path": "duellsetupmac",
+		"destination_path": "duellsetupmac"
+	},
+
 	"duellbuildhtml5":
 	{
 		"git_path":"git@github.com:gameduell/duellbuildhtml5.git",
@@ -25,6 +32,13 @@
 		"git_path":"git@github.com:gameduell/duellbuildflash.git",
 		"library_path": "duellbuildflash",
 		"destination_path": "duellbuildflash"
+	},
+
+	"duellbuildios":
+	{
+		"git_path":"git@github.com:gameduell/duellbuildios.git",
+		"library_path": "duellbuildios",
+		"destination_path": "duellbuildios"
 	},
 
 	"duellcreateemptyProject":
