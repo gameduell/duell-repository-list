@@ -20,6 +20,13 @@
 		"destination_path": "duellsetupmac"
 	},
 
+	"duellsetupandroid":
+	{
+		"git_path":"git@github.com:gameduell/duellsetupandroid.git",
+		"library_path": "duellsetupandroid",
+		"destination_path": "duellsetupandroid"
+	},
+
 	"duellbuildhtml5":
 	{
 		"git_path":"git@github.com:gameduell/duellbuildhtml5.git",
@@ -39,6 +46,13 @@
 		"git_path":"git@github.com:gameduell/duellbuildios.git",
 		"library_path": "duellbuildios",
 		"destination_path": "duellbuildios"
+	},
+
+	"duellbuildandroid":
+	{
+		"git_path":"git@github.com:gameduell/duellbuildandroid.git",
+		"library_path": "duellbuildandroid",
+		"destination_path": "duellbuildandroid"
 	},
 
 	"duellcreateemptyProject":
