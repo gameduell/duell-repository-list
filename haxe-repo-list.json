@@ -65,7 +65,7 @@
 	"polygonal-ds":
 	{
 		"git_path":"https://github.com/gameduell/ds",
-		"library_path": "ds/src",
-		"destination_path": "ds"
+		"library_path": "polygonal-ds/src",
+		"destination_path": "polygonal-ds"
 	}
 }
