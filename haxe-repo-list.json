@@ -61,4 +61,11 @@
 		"library_path": "duellcreateemptyProject",
 		"destination_path": "duellcreateemptyProject"
 	}
+
+	"ds":
+	{
+		"git_path":"https://github.com/gameduell/ds",
+		"library_path": "ds/src",
+		"destination_path": "ds"
+	}
 }
