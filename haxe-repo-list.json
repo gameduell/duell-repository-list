@@ -67,5 +67,103 @@
 		"git_path":"https://github.com/gameduell/ds",
 		"library_path": "polygonal-ds/src",
 		"destination_path": "polygonal-ds"
-	}
+	},
+
+	"duellkit":
+	{
+		"git_path":"git@github.com:gameduell/duellkit.git",
+		"library_path": "duellkit",
+		"destination_path": "duellkit"
+	},
+
+	"input":
+	{
+		"git_path":"git@github.com:gameduell/input.git",
+		"library_path": "input",
+		"destination_path": "input"
+	},
+
+	"types":
+	{
+		"git_path":"git@github.com:gameduell/types.git",
+		"library_path": "types",
+		"destination_path": "types"
+	},
+
+	"android_appdelegate":
+	{
+		"git_path":"git@github.com:gameduell/android_appdelegate.git",
+		"library_path": "android_appdelegate",
+		"destination_path": "android_appdelegate"
+	},
+
+	"flash_appdelegate":
+	{
+		"git_path":"git@github.com:gameduell/flash_appdelegate.git",
+		"library_path": "flash_appdelegate",
+		"destination_path": "flash_appdelegate"
+	},
+
+	"html5_appdelegate":
+	{
+		"git_path":"git@github.com:gameduell/html5_appdelegate.git",
+		"library_path": "html5_appdelegate",
+		"destination_path": "html5_appdelegate"
+	},
+
+	"filesystem":
+	{
+		"git_path":"git@github.com:gameduell/filesystem.git",
+		"library_path": "filesystem",
+		"destination_path": "filesystem"
+	},
+
+	"ios_appdelegate":
+	{
+		"git_path":"git@github.com:gameduell/ios_appdelegate.git",
+		"library_path": "ios_appdelegate",
+		"destination_path": "ios_appdelegate"
+	},
+
+	"runloop":
+	{
+		"git_path":"git@github.com:gameduell/runloop.git",
+		"library_path": "runloop",
+		"destination_path": "runloop"
+	},
+
+	"opengl":
+	{
+		"git_path":"git@github.com:gameduell/opengl.git",
+		"library_path": "opengl",
+		"destination_path": "opengl"
+	},
+
+	"unittest":
+	{
+		"git_path":"git@github.com:gameduell/unittest.git",
+		"library_path": "unittest",
+		"destination_path": "unittest"
+	},
+
+	"duellcreateunitTestProject":
+	{
+		"git_path": "git@github.com:gameduell/duellcreateunitTestProject.git",
+		"library_path": "duellcreateunitTestProject",
+		"destination_path": "duellcreateunitTestProject"
+	},
+
+	"duellcreatelibraryProject":
+	{
+		"git_path":"git@github.com:gameduell/duellcreatelibraryProject.git",
+		"library_path": "duellcreatelibraryProject",
+		"destination_path": "duellcreatelibraryProject"
+	},
+
+	"logger":
+	{
+		"git_path": "git@github.com:gameduell/logger.git",
+		"library_path": "logger",
+		"destination_path": "logger"
+	},
 }
