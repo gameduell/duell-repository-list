@@ -165,5 +165,5 @@
 		"git_path": "git@github.com:gameduell/logger.git",
 		"library_path": "logger",
 		"destination_path": "logger"
-	},
+	}
 }
