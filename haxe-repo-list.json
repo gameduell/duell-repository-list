@@ -160,6 +160,13 @@
 		"destination_path": "duellcreatelibraryProject"
 	},
 
+	 "hxjni":
+  	{
+    	"git_path":"git@github.com:gameduell/hxjni.git",
+    	"library_path": "hxjni",
+    	"destination_path": "hxjni"
+  	},
+
 	"logger":
 	{
 		"git_path": "git@github.com:gameduell/logger.git",
