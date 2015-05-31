@@ -162,9 +162,9 @@
 
 	 "hxjni":
   	{
-    	"git_path":"git@github.com:gameduell/hxjni.git",
-    	"library_path": "hxjni",
-    	"destination_path": "hxjni"
+    		"git_path":"git@github.com:gameduell/hxjni.git",
+    		"library_path": "hxjni",
+    		"destination_path": "hxjni"
   	},
 
 	"logger":
@@ -172,5 +172,12 @@
 		"git_path": "git@github.com:gameduell/logger.git",
 		"library_path": "logger",
 		"destination_path": "logger"
+	},
+
+	"hxgo":
+	{
+		"git_path": "git@github.com:catdawg/hxgo.git",
+		"library_path": "hxgo",
+		"destination_path": "hxgo"
 	}
 }
