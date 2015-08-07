@@ -187,4 +187,11 @@
 		"library_path": "hxgo",
 		"destination_path": "hxgo"
 	}
+
+	"dox":
+	{
+		"git_path": "git@github.com:gameduell/dox.git",
+		"library_path": "dox",
+		"destination_path": "dox"
+	}
 }
