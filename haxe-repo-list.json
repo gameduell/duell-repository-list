@@ -60,7 +60,7 @@
 		"git_path":"git@github.com:gameduell/duellbuilddocumentation.git",
 		"library_path": "duellbuilddocumentation",
 		"destination_path": "duellbuilddocumentation"
-	}
+	},
 
 	"duellcreateemptyProject":
 	{
@@ -186,7 +186,7 @@
 		"git_path": "git@github.com:catdawg/hxgo.git",
 		"library_path": "hxgo",
 		"destination_path": "hxgo"
-	}
+	},
 
 	"dox":
 	{
