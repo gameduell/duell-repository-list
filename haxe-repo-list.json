@@ -55,6 +55,13 @@
 		"destination_path": "duellbuildandroid"
 	},
 
+	"duellbuilddocumentation":
+	{
+		"git_path":"git@github.com:gameduell/duellbuilddocumentation.git",
+		"library_path": "duellbuilddocumentation",
+		"destination_path": "duellbuilddocumentation"
+	}
+
 	"duellcreateemptyProject":
 	{
 		"git_path":"git@github.com:gameduell/duellcreateemptyProject.git",
