@@ -47,6 +47,13 @@
 		"library_path": "duellbuildios",
 		"destination_path": "duellbuildios"
 	},
+	
+	"duellbuildtvos":
+	{
+		"git_path":"git@github.com:gameduell/duellbuildtvos.git",
+		"library_path": "duellbuildtvos",
+		"destination_path": "duellbuildtvos"
+	},
 
 	"duellbuildandroid":
 	{
