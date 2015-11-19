@@ -152,6 +152,20 @@
 		"library_path": "opengl",
 		"destination_path": "opengl"
 	},
+	
+	"aggx":
+	{
+		"git_path":"git@github.com:gameduell/aggx.git",
+		"library_path": "aggx",
+		"destination_path": "aggx"
+	},
+	
+	"vectorx":
+	{
+		"git_path":"git@github.com:gameduell/vectorx.git",
+		"library_path": "vectorx",
+		"destination_path": "vectorx"
+	},
 
 	"unittest":
 	{
