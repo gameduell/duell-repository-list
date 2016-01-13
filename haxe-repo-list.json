@@ -214,5 +214,12 @@
 		"git_path": "git@github.com:gameduell/dox.git",
 		"library_path": "dox",
 		"destination_path": "dox"
+	},
+
+	"nodejs":
+	{
+		"git_path": "git@github.com:gameduell/nodejs.git",
+		"library_path": "nodejs",
+		"destination_path": "nodejs"
 	}
 }
