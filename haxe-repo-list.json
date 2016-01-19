@@ -20,6 +20,13 @@
 		"destination_path": "duellsetupmac"
 	},
 
+	"duellsetupelectron":
+	{
+		"git_path":"git@github.com:gameduell/duellsetupelectron.git",
+		"library_path": "duellsetupelectron",
+		"destination_path": "duellsetupelectron"
+	},
+
 	"duellsetupandroid":
 	{
 		"git_path":"git@github.com:gameduell/duellsetupandroid.git",
@@ -60,6 +67,13 @@
 		"git_path":"git@github.com:gameduell/duellbuildandroid.git",
 		"library_path": "duellbuildandroid",
 		"destination_path": "duellbuildandroid"
+	},
+
+	"duellbuildelectron":
+	{
+		"git_path":"git@github.com:gameduell/duellbuildelectron.git",
+		"library_path": "duellbuildelectron",
+		"destination_path": "duellbuildelectron"
 	},
 
 	"duellbuilddocumentation":
