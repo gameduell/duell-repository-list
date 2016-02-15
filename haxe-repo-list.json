@@ -90,6 +90,13 @@
 		"destination_path": "duellcreateemptyProject"
 	},
 
+	"electron":
+	{
+		"git_path":"git@github.com:gameduell/electron.git",
+		"library_path": "electron",
+		"destination_path": "electron"
+	},
+
 	"polygonal-ds":
 	{
 		"git_path":"https://github.com/gameduell/ds",
