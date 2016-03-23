@@ -223,18 +223,53 @@
 		"destination_path": "logger"
 	},
 
-	"hxgo":
+	"device_motion":
 	{
-		"git_path": "git@github.com:catdawg/hxgo.git",
-		"library_path": "hxgo",
-		"destination_path": "hxgo"
+		"git_path": "git@github.com:gameduell/device_motion.git",
+		"library_path": "device_motion",
+		"destination_path": "device_motion"
+	},
+	
+	"preferences":
+	{
+		"git_path": "git@github.com:gameduell/preferences.git",
+		"library_path": "preferences",
+		"destination_path": "preferences"
+	},
+	
+	"capabilities":
+	{
+		"git_path": "git@github.com:gameduell/capabilities.git",
+		"library_path": "capabilities",
+		"destination_path": "capabilities"
 	},
 
-	"dox":
+	"asyncrunner":
 	{
-		"git_path": "git@github.com:gameduell/dox.git",
-		"library_path": "dox",
-		"destination_path": "dox"
+		"git_path": "git@github.com:gameduell/asyncrunner.git",
+		"library_path": "asyncrunner",
+		"destination_path": "asyncrunner"
+	},
+	
+	"media":
+	{
+		"git_path": "git@github.com:gameduell/media.git",
+		"library_path": "media",
+		"destination_path": "media"
+	},
+	
+	"graphics":
+	{
+		"git_path": "git@github.com:gameduell/graphics.git",
+		"library_path": "graphics",
+		"destination_path": "graphics"
+	},
+	
+	"sound":
+	{
+		"git_path": "git@github.com:gameduell/sound.git",
+		"library_path": "sound",
+		"destination_path": "sound"
 	},
 
 	"nodejs":
