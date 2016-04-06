@@ -271,6 +271,13 @@
 		"library_path": "sound",
 		"destination_path": "sound"
 	},
+	
+	"protohx":
+	{
+		"git_path": "git@github.com:gameduell/protohx.git",
+		"library_path": "protohx",
+		"destination_path": "protohx"
+	},
 
 	"nodejs":
 	{
