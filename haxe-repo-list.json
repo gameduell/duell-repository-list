@@ -54,7 +54,7 @@
 		"library_path": "duellbuildios",
 		"destination_path": "duellbuildios"
 	},
-	
+
 	"duellbuildtvos":
 	{
 		"git_path":"git@github.com:gameduell/duellbuildtvos.git",
@@ -173,14 +173,14 @@
 		"library_path": "opengl",
 		"destination_path": "opengl"
 	},
-	
+
 	"aggx":
 	{
 		"git_path":"git@github.com:gameduell/aggx.git",
 		"library_path": "aggx",
 		"destination_path": "aggx"
 	},
-	
+
 	"vectorx":
 	{
 		"git_path":"git@github.com:gameduell/vectorx.git",
@@ -229,14 +229,14 @@
 		"library_path": "device_motion",
 		"destination_path": "device_motion"
 	},
-	
+
 	"preferences":
 	{
 		"git_path": "git@github.com:gameduell/preferences.git",
 		"library_path": "preferences",
 		"destination_path": "preferences"
 	},
-	
+
 	"capabilities":
 	{
 		"git_path": "git@github.com:gameduell/capabilities.git",
@@ -250,33 +250,40 @@
 		"library_path": "asyncrunner",
 		"destination_path": "asyncrunner"
 	},
-	
+
 	"media":
 	{
 		"git_path": "git@github.com:gameduell/media.git",
 		"library_path": "media",
 		"destination_path": "media"
 	},
-	
+
 	"graphics":
 	{
 		"git_path": "git@github.com:gameduell/graphics.git",
 		"library_path": "graphics",
 		"destination_path": "graphics"
 	},
-	
+
 	"sound":
 	{
 		"git_path": "git@github.com:gameduell/sound.git",
 		"library_path": "sound",
 		"destination_path": "sound"
 	},
-	
+
 	"protohx":
 	{
 		"git_path": "git@github.com:gameduell/protohx.git",
 		"library_path": "protohx",
 		"destination_path": "protohx"
+	},
+
+	"svgcompiler":
+	{
+		"git_path": "git@github.com:gameduell/svgcompiler.git",
+		"library_path": "svgcompiler",
+		"destination_path": "svgcompiler"
 	},
 
 	"nodejs":
